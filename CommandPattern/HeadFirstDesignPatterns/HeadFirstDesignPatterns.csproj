@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandPatternTests\SimpleRemoteControlTests.cs" />
+    <Compile Include="CommandPattern\GarageDoor.cs" />
+    <Compile Include="CommandPattern\GarageDoorOpenCommand.cs" />
     <Compile Include="CommandPattern\ICommand.cs" />
     <Compile Include="CommandPattern\Light.cs" />
     <Compile Include="CommandPattern\LightOnCommand.cs" />

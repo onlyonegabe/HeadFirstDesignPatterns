@@ -1,0 +1,11 @@
+Waitress - Invoker
+Short Order Cook - Receiver
+orderUp() - execute  (good)
+Order - Command
+Customer - Client
+takeOrder - setCommand
+
+
+LightOnCommand - Command
+Light - Receiver
+SimpleRemoteControl - Invoker
